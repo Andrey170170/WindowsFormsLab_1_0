@@ -253,7 +253,6 @@ namespace WindowsFormsLab_1_0
 
                     L5T3_OtM.Text += "\r\n";
                 }
-                L5T3.Height += 16 * int.Parse(L5T3_tb2.Text);
             }
             catch (Exception exception)
             {
